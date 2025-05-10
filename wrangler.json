@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "sparkling-math-5f4e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7069e9f0-5753-45f4-b6a2-f3e2d8aff58c",
+      "database_name": "royal-king-a91e-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
